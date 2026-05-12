@@ -27,7 +27,10 @@ h1 {
 }
 
 .hero-image {
+  display: block;
   width: 100%;
+  max-width: 100%;
+  height: auto;
   border-radius: 16px;
   margin-bottom: 40px;
 }
