@@ -63,9 +63,3 @@
     grid-template-columns: 1fr;
   }
 }
-
-.work-card {
-  background: red;
-  border: 3px solid yellow;
-  padding: 16px;
-}
