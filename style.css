@@ -23,6 +23,12 @@ a {
   margin-bottom: 24px;
 }
 
+.category-box {
+  background: #181818;
+  border-radius: 20px;
+  padding: 24px;
+}
+
 .work-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
