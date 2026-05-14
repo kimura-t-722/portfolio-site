@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 187.5 135.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_名称未設定グラデーション_140);
+      }
+
+      .cls-2 {
+        fill: #1f2937;
+      }
+
+      .cls-3 {
+        fill: url(#_名称未設定グラデーション_139);
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_140" data-name="名称未設定グラデーション 140" x1="109.91" y1="70.84" x2="93.11" y2="41.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3db7ad"/>
+      <stop offset=".18" stop-color="#3db1ae"/>
+      <stop offset=".4" stop-color="#3fa2b2"/>
+      <stop offset=".64" stop-color="#4288b8"/>
+      <stop offset=".82" stop-color="#4571be"/>
+      <stop offset="1" stop-color="#4575bd"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_139" data-name="名称未設定グラデーション 139" x1="151.65" y1="91.12" x2="99.66" y2="6.73" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#3db7ad"/>
+      <stop offset=".35" stop-color="#3db3ad"/>
+      <stop offset=".55" stop-color="#3ea9b0"/>
+      <stop offset=".74" stop-color="#4097b4"/>
+      <stop offset=".92" stop-color="#437fba"/>
+      <stop offset="1" stop-color="#4571be"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M100.23,122.98l-10.74-23.73-30.65-.07,5.98-10.62c1.3-1.06,2.88-1.28,4.64-1.28l28.88.07,15.46,35.45-13.56.16Z"/>
+  <path class="cls-1" d="M102.85,73.22c-2.04-2.78-1.36-7.32-4.09-9.85s-6.64-2.24-10.2-3.93c3.34-1.5,7.66-1.21,10.32-4.01s2.61-7.49,3.87-10.88c1.41,3.76,1.17,8.22,3.85,10.86,3.02,2.97,7.7,2.93,11.53,4.06-3.87,1.42-8.21,1.35-11.33,3.96-2.57,2.15-2.26,6.07-3.95,9.79Z"/>
+  <g>
+    <path class="cls-3" d="M79.91,34.65l-4.7-18.91,45.02.03c22.93.01,40.26,18.92,39.38,41.68.52,22.68-17.03,41.19-39.56,41.5l-5.05-11.79c17.91,1.91,32.58-11.2,33.05-28.95s-13.18-30.88-30.78-30.82l-32.78.12-4.57,7.15Z"/>
+    <path class="cls-2" d="M79.91,34.65L30.21,122.67c-5.13.26-9.95.69-14.95-.05L75.21,15.75l4.7,18.91Z"/>
+  </g>
+</svg>
